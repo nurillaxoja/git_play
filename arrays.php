@@ -1,4 +1,5 @@
-
+<h1>added crap delete it</h1>
+<p>many crap delete it</p>
 
 <?php 
 $products = [
@@ -10,6 +11,6 @@ $products = [
 	foreach ($products as $product) {
 		format($product);
 	}
-		<h1>added crap delete it</h1>
+		
 
  ?>
