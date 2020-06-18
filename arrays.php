@@ -10,6 +10,6 @@ $products = [
 	foreach ($products as $product) {
 		format($product);
 	}
-
+		<h1>added crap delete it</h1>
 
  ?>
